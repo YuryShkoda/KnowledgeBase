@@ -1,5 +1,5 @@
 /*
-                            Regular Expressions
+                                Regular Expressions
     [csm]at  - a ‘c’, an ’s’, or an ‘m’, followed by 'at'
     [a-z]at  - for any letter followed by 'at'
     [A-Za-z]at
@@ -46,7 +46,7 @@
  
     1. \w* for myVariable
     2. \d{3}-\d{4} for 111-1111
-    3. ^[A-Z][a-z]]+ [A-Z][a-z]+ for Paul Hudson
+    3. ^[A-Z][a-z]]+ [A-Z][a-z]+ for Yurec
     4. \d{1}-?\d{6}-?\d{2}-?\d{1} for 1-111111-11-1
  
  */
