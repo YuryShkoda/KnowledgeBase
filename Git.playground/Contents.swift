@@ -1,5 +1,5 @@
 /*
-                                        Git
+                                            Git
  git config --global user.name "Yury Shkoda"
  git config --global user.email "email@gmail.com"
  git config --global color.ui true
