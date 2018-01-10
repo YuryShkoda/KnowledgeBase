@@ -1,5 +1,5 @@
 /*
-                        Terminal Commands
+                            Terminal Commands
     ls - list of files (*|?|-l|-h|-S|-t|r)
     cd - change directory
     pwd - print working directory
