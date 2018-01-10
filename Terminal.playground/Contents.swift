@@ -52,14 +52,4 @@
     ssh remoteusername@yoursite.com - connect to SSH
     scp data.zip you@yoursite.com:/home/twostraws/Documents  - upload file to the remote directory
     sftp you@yoursite.com - create FTP-like transfer pipe (than use: put data.zip and get data.zip)
- 
- 1. List the five most recently modified files.
-    ls -t | head -n 5
- 2. Count how many Markdown files are on your desktop or any subdirectory.
-    find . -iname "*.md" | wc -l
- 3. Count how many files were modified on the 23rd of May.
-    ls -l | grep "23 May
- 4. Count how often the word “Swift” appears in any “.txt” file on your desktop.
-    grep "Swift" *.txt | wc -l
- 5. Go through every “.md” file in the current directory, and print out lines that contain the word “test”, numbering the output.
  */
