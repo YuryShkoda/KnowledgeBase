@@ -10,10 +10,12 @@
     ctrl+r - search for previous command
     mkdir - make directory
     whatis - describe a command
-    sudo -super user do
+    sudo - super user do
     cat - concatenate and print file (-s|-n)
     cat filea.txt fileb.txt > filec.txt - create file with content of filea and fileb
     cat filea.txt fileb.txt >> filec.txt - append content of filea and fileb to filec
+    sed - stream editor
+        's/cat/dog/' - (s- substitute) scan incoming text and replace every instance of the string “cat” with “dog”
     less - show content of file to the bounds of screen (-N|-M|+|/|?)
     head - prints the start of file
     tail - prints the end of file (-f -follow)
